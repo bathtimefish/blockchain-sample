@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/sha256": "^0.2.0",
+    "ts-node": "^8.0.3",
+    "typescript": "^3.4.1"
+  },
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
